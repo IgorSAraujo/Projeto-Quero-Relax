@@ -72,5 +72,12 @@ body {
   align-items: center;
   justify-content: center;
   text-shadow: 4px 4px 4px black;
-  gap: 5px;
+  gap: 10px;
+}
+#frase {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 0px;
 }
