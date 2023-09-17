@@ -1,5 +1,5 @@
 body {
-  background-image: url(./IMG/background.png);
+  background-image: url(./IMG/spa1_background.jpg);
   height: 100vh;
   background-size: cover;
   background-position: top center;
@@ -25,6 +25,8 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
+  border-radius: 75px;
+  box-shadow: 0px 0px 15px 5px black;
 }
 #profile p {
   display: flex;
@@ -72,7 +74,6 @@ body {
   align-items: center;
   justify-content: center;
   text-shadow: 4px 4px 4px black;
-
 }
 #frase {
   display: flex;
